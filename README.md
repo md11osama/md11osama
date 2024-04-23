@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md11osama" alt="md11osama" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Cloud|DevOps|LINUX|VMWare**
+- 🔭 I’m currently working on **Cloud|DevOps|LINUX|VMWare**
 
 - 🌱 I’m currently learning **Terraform, Ansible**
 
-- 💬 Ask me about **LINUX, AWS, AZURE, GitHub, Docker, Kubernetes**
+- 💬 Ask me about **LINUX, Shell Scripting, Docker, Kubernetes, AWS, AZURE, GitHub**
 
 - 📫 How to reach me **mohd.osama786ansari@gmail.com**
 
