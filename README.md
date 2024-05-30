@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Terraform, Ansible**
 
-- 💬 Ask me about **LINUX, Shell Scripting, Docker, Kubernetes, AWS, AZURE, GitHub**
+- 💬 Ask me about **LINUX, Shell Scripting, Docker, Kubernetes, Ansible, Jenkins, AWS, AZURE, GitHub**
 
 - 📫 How to reach me **mohd.osama786ansari@gmail.com**
 
