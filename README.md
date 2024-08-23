@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **Cloud|DevOps|LINUX|VMWare**
 
-- 🌱 I’m currently learning **Terraform, Ansible**
-
-- 💬 Ask me about **LINUX, Shell Scripting, Docker, Kubernetes, Ansible, Jenkins, AWS, AZURE, GitHub, Grafana, Prometheus**
+- 💬 Ask me about **Linux, Bash Scripting, Docker, Kubernetes, Ansible, Jenkins, AWS Cloud, AZURE Cloud, Helm Charts, Grafana, Prometheus**
 
 - 📫 How to reach me **mohd.osama786ansari@gmail.com**
 
