@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Osama Ansari</h1>
-<h3 align="center">A passionate Linux Administrator & Developer from India</h3>
+<h3 align="center">A passionate Linux Administrator & DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md11osama&label=Profile%20views&color=0e75b6&style=flat" alt="md11osama" /> </p>
 
